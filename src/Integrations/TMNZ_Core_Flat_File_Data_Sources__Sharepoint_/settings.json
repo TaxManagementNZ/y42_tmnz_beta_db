@@ -1,3 +1,4 @@
 {
-  "$schema": "https://s.y42.com/integrations/sharepoint/0.0.0/source.json"
+  "$schema": "https://s.y42.com/integrations/sharepoint/0.0.0/source.json",
+  "parent_id": "tmnz.sharepoint.com,7e1e15af-7e80-429c-9fed-d2e4ffaec1aa,1a8dd9de-df64-4054-a00e-dec0392a5c9e"
 }
