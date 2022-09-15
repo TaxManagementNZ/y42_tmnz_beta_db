@@ -1,0 +1,31 @@
+{
+  "$schema": "https://s.y42.com/integrations/freshdesk/0.0.0/table",
+  "columns": [
+    "id",
+    "created_at",
+    "name",
+    "description",
+    "tags",
+    "email",
+    "job_title",
+    "phone",
+    "address",
+    "language",
+    "mobile",
+    "company_id",
+    "view_all_tickets",
+    "other_emails",
+    "other_companies",
+    "twitter_id",
+    "time_zone",
+    "avatar",
+    "active",
+    "deleted",
+    "updated_at"
+  ],
+  "import": "contacts",
+  "_datos_write_settings": {
+    "max_flatten_depth": 0,
+    "decimals": false
+  }
+}

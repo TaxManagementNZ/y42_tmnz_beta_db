@@ -1,0 +1,16 @@
+{
+  "$schema": "https://s.y42.com/integrations/freshdesk/0.0.0/table",
+  "columns": [
+    "id",
+    "created_at",
+    "survey_id",
+    "user_id",
+    "feedback",
+    "agent_id",
+    "group_id",
+    "ticket_id",
+    "ratings",
+    "updated_at"
+  ],
+  "import": "satisfaction_ratings"
+}

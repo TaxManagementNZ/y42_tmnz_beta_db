@@ -1,0 +1,16 @@
+{
+  "$schema": "https://s.y42.com/integrations/freshdesk/0.0.0/table",
+  "columns": [
+    "id",
+    "created_at",
+    "name",
+    "description",
+    "agent_ids",
+    "auto_ticket_assign",
+    "business_hour_id",
+    "escalate_to",
+    "unassigned_for",
+    "updated_at"
+  ],
+  "import": "groups"
+}

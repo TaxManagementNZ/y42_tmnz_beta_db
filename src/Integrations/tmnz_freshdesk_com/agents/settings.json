@@ -1,0 +1,22 @@
+{
+  "$schema": "https://s.y42.com/integrations/freshdesk/0.0.0/table",
+  "columns": [
+    "id",
+    "created_at",
+    "available",
+    "available_since",
+    "occasional",
+    "signature",
+    "ticket_scope",
+    "ticket_label",
+    "group_ids",
+    "role_ids",
+    "updated_at",
+    "contact"
+  ],
+  "import": "agents",
+  "_datos_write_settings": {
+    "max_flatten_depth": 0,
+    "decimals": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://s.y42.com/integrations/freshdesk/0.0.0/table",
+  "columns": [
+    "id",
+    "created_at",
+    "start_time",
+    "time_spent",
+    "ticket_id",
+    "executed_at",
+    "updated_at",
+    "timer_running",
+    "note",
+    "billable",
+    "agent_id"
+  ],
+  "import": "time_entries"
+}

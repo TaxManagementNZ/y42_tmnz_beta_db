@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/freshdesk/0.0.0/table",
+  "columns": [
+    "id",
+    "created_at",
+    "name",
+    "domains",
+    "description",
+    "note",
+    "updated_at",
+    "account_manager"
+  ],
+  "import": "companies"
+}

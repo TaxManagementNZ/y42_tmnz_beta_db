@@ -1,0 +1,20 @@
+{
+  "$schema": "https://s.y42.com/integrations/freshdesk/0.0.0/table",
+  "columns": [
+    "id",
+    "created_at",
+    "ticket_id",
+    "user_id",
+    "source",
+    "body_text",
+    "incoming",
+    "private",
+    "support_email",
+    "to_emails",
+    "from_email",
+    "cc_emails",
+    "bcc_emails",
+    "updated_at"
+  ],
+  "import": "conversations"
+}
