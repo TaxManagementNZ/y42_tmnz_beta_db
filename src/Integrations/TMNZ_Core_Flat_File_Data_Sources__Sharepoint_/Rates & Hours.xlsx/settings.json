@@ -1,5 +1,5 @@
 {
-  "$schema": "https://s.y42.com/integrations/sharepoint/0.0.0/table",
+  "$schema": "https://s.y42.com/integrations/sharepoint/0.0.0/table.json",
   "columns": [
     "auto_detect"
   ],
@@ -7,5 +7,8 @@
   "_datos_write_settings": {
     "max_flatten_depth": 0,
     "decimals": false
-  }
+  },
+  "uri": "gs://y42_tmnzbeta_4f023c31211d43a7bdc1cf45afe1a15a/userUploads/v2/41/sharepoint/b98e8c8a-defe-45b5-8af5-fa46d5d2c4c6",
+  "identifier": "Sheet1",
+  "_signature": "C/iUNZsbwnLyKI+ra2Gnyvj4CcFLZC1JC3/SOcaD58DIVOfXjqC1ngPPVWrGIWHE/J3qDPSk55tShdo/L37nCQ=="
 }
