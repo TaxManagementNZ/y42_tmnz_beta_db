@@ -1,0 +1,11 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "accountGroupId",
+    "accountId",
+    "groupId",
+    "type",
+    "dateCreated"
+  ],
+  "import": "tmnz_account_accountGroup"
+}

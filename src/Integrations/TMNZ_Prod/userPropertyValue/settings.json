@@ -1,0 +1,19 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "userPropertyValueId",
+    "dateCreated",
+    "logDateCreated",
+    "dateModified",
+    "valueLongText",
+    "id",
+    "valueText",
+    "valueDecimal",
+    "userId",
+    "valueDate",
+    "modifiedBy",
+    "userPropertyId",
+    "valueInteger"
+  ],
+  "import": "tmnz_logs_userPropertyValue"
+}

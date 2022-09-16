@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "PaymentDate",
+    "TransactionTypeId",
+    "productId",
+    "balanceDate",
+    "PaidDate",
+    "transactionItemId",
+    "taxYear",
+    "clientId",
+    "amount",
+    "depositDate",
+    "fundsSource",
+    "transactionType"
+  ],
+  "import": "tmnz_transaction_vTaxpayerBalances"
+}

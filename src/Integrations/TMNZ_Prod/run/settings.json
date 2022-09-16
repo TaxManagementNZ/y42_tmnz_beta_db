@@ -1,0 +1,13 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "runId",
+    "runDate",
+    "notes",
+    "runIndex",
+    "dateCreated",
+    "dateModified",
+    "modifiedBy"
+  ],
+  "import": "tmnz_transaction_run"
+}
