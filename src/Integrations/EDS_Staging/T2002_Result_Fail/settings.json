@@ -1,0 +1,26 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "ResultFailDetails",
+    "statusId",
+    "workPhone",
+    "RemediationUser",
+    "lastName",
+    "email",
+    "DeepLink",
+    "RemediationTeam",
+    "userId",
+    "ResultFailRowId",
+    "firstName",
+    "modifiedBy",
+    "SeverityOverwrite",
+    "title",
+    "userTypeId",
+    "mobilePhone",
+    "ResultFailBestReferenceDate",
+    "showWelcomeMessage"
+  ],
+  "import": "EDS_dq_T2002_Result_Fail"
+}

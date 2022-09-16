@@ -1,0 +1,16 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "transactionId",
+    "valueText",
+    "valueDecimal",
+    "valueDate",
+    "transactionPropertyValueId",
+    "transactionPropertyId",
+    "valueInteger"
+  ],
+  "import": "EDS_transaction_transactionPropertyValue"
+}

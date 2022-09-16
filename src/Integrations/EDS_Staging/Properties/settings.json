@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "accountId",
+    "PropertyPK",
+    "dateModified",
+    "valueLongText",
+    "propertyValueId",
+    "valueText",
+    "valueDecimal",
+    "propertyId",
+    "valueDate",
+    "Property",
+    "valueInteger"
+  ],
+  "import": "EDS_account_Properties"
+}

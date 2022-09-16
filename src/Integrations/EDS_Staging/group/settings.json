@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "groupId",
+    "groupTypeId",
+    "name",
+    "purchaseDiscountId",
+    "statusId",
+    "dateCreated",
+    "dateModified",
+    "accountManagerId"
+  ],
+  "import": "EDS_account_group"
+}

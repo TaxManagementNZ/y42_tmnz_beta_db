@@ -1,0 +1,21 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "Industry",
+    "dateCreated",
+    "accountId",
+    "dateModified",
+    "valueLongText",
+    "propertyValueId",
+    "valueText",
+    "valueDecimal",
+    "propertyId",
+    "BK_Industry_ID",
+    "valueDate",
+    "Property",
+    "BK_Account_ID",
+    "PK_Dim_Industry_ID",
+    "valueInteger"
+  ],
+  "import": "EDS_dbo_Dim_Industry"
+}

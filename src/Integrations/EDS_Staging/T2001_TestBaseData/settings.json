@@ -1,0 +1,13 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "TestId",
+    "TestName",
+    "TestDescription",
+    "TestDomain",
+    "Severity",
+    "EnableNotification",
+    "NotificationSuppressThreshold"
+  ],
+  "import": "EDS_dq_T2001_TestBaseData"
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "PK_Dim_PrimaryAccountSegment_ID",
+    "dateCreated",
+    "accountId",
+    "dateModified",
+    "valueLongText",
+    "propertyValueId",
+    "valueText",
+    "valueDecimal",
+    "propertyId",
+    "valueDate",
+    "Property",
+    "BK_Account_ID",
+    "valueInteger"
+  ],
+  "import": "EDS_dbo_Dim_PrimaryAccountSegment"
+}

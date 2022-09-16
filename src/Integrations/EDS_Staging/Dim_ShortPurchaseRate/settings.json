@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "PK_Dim_ShortPurchaseRate_ID",
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "transactionItempropertyValueId",
+    "valueText",
+    "valueDecimal",
+    "transactionItempropertyId",
+    "valueDate",
+    "BK_transactionItemId",
+    "Property",
+    "valueInteger"
+  ],
+  "import": "EDS_dbo_Dim_ShortPurchaseRate"
+}

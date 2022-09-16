@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "propertyId",
+    "propertyLabel",
+    "propertyTag",
+    "propertyDescription",
+    "propertyGroupTag",
+    "dataTypeId",
+    "dateCreated",
+    "dateModified"
+  ],
+  "import": "EDS_account_property"
+}

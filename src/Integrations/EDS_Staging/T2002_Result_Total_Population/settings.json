@@ -1,0 +1,19 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "statusId",
+    "workPhone",
+    "lastName",
+    "email",
+    "userId",
+    "firstName",
+    "modifiedBy",
+    "title",
+    "userTypeId",
+    "mobilePhone",
+    "showWelcomeMessage"
+  ],
+  "import": "EDS_dq_T2002_Result_Total_Population"
+}

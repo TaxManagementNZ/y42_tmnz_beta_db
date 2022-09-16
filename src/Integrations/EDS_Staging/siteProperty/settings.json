@@ -1,0 +1,15 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "isArray",
+    "sitePropertyTag",
+    "sitePropertyGroupTag",
+    "sitePropertyId",
+    "sitePropertyLabel",
+    "dataTypeId",
+    "sitePropertyDescription"
+  ],
+  "import": "EDS_security_siteProperty"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "Month_Short",
+    "Chk_Vol",
+    "DataBlock_Key",
+    "Chk_Mar",
+    "Comp_Mar",
+    "Target_Margin",
+    "Account_Manager",
+    "Diff_Vol",
+    "Comp_Vol",
+    "Target_Volume",
+    "MonthNo",
+    "Diff_Mar",
+    "Team",
+    "FY",
+    "Month"
+  ],
+  "import": "EDS_Transform_Targets"
+}

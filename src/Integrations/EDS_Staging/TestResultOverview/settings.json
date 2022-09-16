@@ -1,0 +1,17 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "Severity",
+    "EnableNotification",
+    "NotificationSuppressThreshold",
+    "TestTotalPopulationCount",
+    "TestExceptionCount",
+    "TestRunDate",
+    "TestDescription",
+    "TestId",
+    "TestName",
+    "pCentException",
+    "TestDomain"
+  ],
+  "import": "EDS_dq_TestResultOverview"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "postcode",
+    "addressId",
+    "dateCreated",
+    "addressName",
+    "country",
+    "accountId",
+    "dateModified",
+    "city",
+    "postKey",
+    "statusId",
+    "addressTypeId",
+    "county",
+    "addressLine4",
+    "addressLine1",
+    "addressLine3",
+    "addressLine2"
+  ],
+  "import": "EDS_account_address"
+}

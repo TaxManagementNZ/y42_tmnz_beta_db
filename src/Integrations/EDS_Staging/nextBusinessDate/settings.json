@@ -1,0 +1,11 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateId",
+    "taxDate",
+    "nextBusinessDate",
+    "dateCreated",
+    "dateModified"
+  ],
+  "import": "EDS_date_nextBusinessDate"
+}

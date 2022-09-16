@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "transactionItempropertyValueId",
+    "valueText",
+    "valueDecimal",
+    "transactionItempropertyId",
+    "valueDate",
+    "BK_transactionItemId",
+    "Property",
+    "valueInteger",
+    "PK_Dim_IRDInterestEarlyBird_ID"
+  ],
+  "import": "EDS_dbo_Dim_IRDInterestEarlyBird"
+}

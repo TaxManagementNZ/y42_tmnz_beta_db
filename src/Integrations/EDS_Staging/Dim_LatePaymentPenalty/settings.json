@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "transactionItempropertyValueId",
+    "valueText",
+    "valueDecimal",
+    "transactionItempropertyId",
+    "PK_Dim_LatePaymentPenalty_ID",
+    "valueDate",
+    "BK_transactionItemId",
+    "Property",
+    "valueInteger"
+  ],
+  "import": "EDS_dbo_Dim_LatePaymentPenalty"
+}

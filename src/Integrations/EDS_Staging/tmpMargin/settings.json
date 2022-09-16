@@ -1,0 +1,15 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "F7",
+    "F9",
+    "F6",
+    "F5",
+    "F2",
+    "F8",
+    "F4",
+    "data",
+    "F3"
+  ],
+  "import": "EDS_dbo_tmpMargin"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "transactionId",
+    "transactionTypeId",
+    "dateCreated",
+    "dateModified",
+    "accountId",
+    "source",
+    "sourceContactId",
+    "transactionContactId"
+  ],
+  "import": "EDS_transaction_transaction"
+}

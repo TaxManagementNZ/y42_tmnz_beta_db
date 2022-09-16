@@ -1,0 +1,24 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "ETL_Task_Name",
+    "ETL_SourceSchema_Name",
+    "Load_Time_Seconds",
+    "Load_Status",
+    "ETL_Log_ID",
+    "ETL_Config_ID",
+    "ETL_Source_Server",
+    "Load_Start",
+    "Load_Error",
+    "ETL_Destination_Server",
+    "ETL_SourceTable_Name",
+    "ETL_DestinationSchema_Name",
+    "Log_Date",
+    "ETL_DestinationTable_Name",
+    "ETL_Phase",
+    "ETL_FileSource_Name",
+    "ETL_SP_Name",
+    "Load_End"
+  ],
+  "import": "EDS_ETL_Log"
+}

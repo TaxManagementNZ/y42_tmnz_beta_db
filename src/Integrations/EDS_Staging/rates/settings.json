@@ -1,0 +1,15 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "irdOver",
+    "dateCreated",
+    "tmnzUnder",
+    "dateModified",
+    "flexitax",
+    "dateApplies",
+    "tmnzOver",
+    "irdUnder",
+    "rateId"
+  ],
+  "import": "EDS_pricing_rates"
+}

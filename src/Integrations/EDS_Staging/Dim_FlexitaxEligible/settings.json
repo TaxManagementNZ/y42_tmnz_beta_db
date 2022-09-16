@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "BK_transactionId",
+    "valueText",
+    "valueDecimal",
+    "PK_Dim_FlexitaxEligible_ID",
+    "valueDate",
+    "transactionPropertyValueId",
+    "Property",
+    "transactionPropertyId",
+    "valueInteger"
+  ],
+  "import": "EDS_dbo_Dim_FlexitaxEligible"
+}

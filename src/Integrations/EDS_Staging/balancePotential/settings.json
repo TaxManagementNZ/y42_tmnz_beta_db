@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "balancePotentialId",
+    "accountId",
+    "depositDate",
+    "potential",
+    "notes",
+    "dateModified",
+    "taxYear",
+    "notesPublic"
+  ],
+  "import": "EDS_account_balancePotential"
+}

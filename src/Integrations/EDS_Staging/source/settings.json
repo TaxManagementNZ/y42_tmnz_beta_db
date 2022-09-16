@@ -1,0 +1,9 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "sourceId",
+    "sourceTag",
+    "source"
+  ],
+  "import": "EDS_transaction_source"
+}

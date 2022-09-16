@@ -1,0 +1,22 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "PK_Dim_TaxType_ID",
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "TaxTypeDescription",
+    "transactionItempropertyValueId",
+    "BK_TaxTypeId",
+    "TaxTypeTag",
+    "valueText",
+    "valueDecimal",
+    "transactionItempropertyId",
+    "TaxType",
+    "valueDate",
+    "BK_transactionItemId",
+    "Property",
+    "valueInteger"
+  ],
+  "import": "EDS_dbo_Dim_TaxType"
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "IRDTransactionItemPeriodId",
+    "IRDTransactionItemId",
+    "fillingPeriod",
+    "periodBalance",
+    "periodBegin",
+    "periodActivity"
+  ],
+  "import": "EDS_transaction_IRDTransactionItemPeriod"
+}

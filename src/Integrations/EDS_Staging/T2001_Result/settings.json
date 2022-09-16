@@ -1,0 +1,10 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "TestId",
+    "TestRunDate",
+    "TestExceptionCount",
+    "TestTotalPopulationCount"
+  ],
+  "import": "EDS_dq_T2001_Result"
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "transactionItempropertyValueId",
+    "BK_AMLApprovalStatusId",
+    "valueText",
+    "valueDecimal",
+    "transactionItempropertyId",
+    "valueDate",
+    "BK_transactionItemId",
+    "Property",
+    "AMLApprovalStatus",
+    "PK_Dim_AMLApprovalStatus_ID",
+    "valueInteger"
+  ],
+  "import": "EDS_dbo_Dim_AMLApprovalStatus"
+}

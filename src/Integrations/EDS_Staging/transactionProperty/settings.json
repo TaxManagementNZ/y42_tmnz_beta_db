@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "transactionPropertyId",
+    "transactionPropertyTag",
+    "transactionPropertyLabel",
+    "transactionPropertyDescription",
+    "transactionPropertyGroupTag",
+    "dataTypeId",
+    "dateCreated",
+    "dateModified"
+  ],
+  "import": "EDS_transaction_transactionProperty"
+}

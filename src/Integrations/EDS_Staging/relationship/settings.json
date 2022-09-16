@@ -1,0 +1,13 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "relationshipId",
+    "loginId",
+    "accountId",
+    "statusId",
+    "dateCreated",
+    "dateModified",
+    "groupId"
+  ],
+  "import": "EDS_security_relationship"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "user_id",
+    "id",
+    "expires_at",
+    "name",
+    "scopes",
+    "updated_at",
+    "revoked",
+    "created_at",
+    "client_id"
+  ],
+  "import": "EDS_dbo_oauth_access_tokens"
+}

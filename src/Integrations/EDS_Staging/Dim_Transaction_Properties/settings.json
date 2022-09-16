@@ -1,0 +1,26 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "ReassessmentDate",
+    "Published",
+    "FinanceFeeDiscount",
+    "Discount",
+    "FlexitaxEligible",
+    "DiscountType",
+    "DateMaxDateOverride",
+    "FinanceRollFeeDiscount",
+    "TerminalTaxDateQuote",
+    "IRDNumberQuote",
+    "BalanceDateQuote",
+    "AccountNameQuote",
+    "AccountTypeQuote",
+    "PeriodType",
+    "IndustryQuote",
+    "HeaderCreated",
+    "MaxDateOverride",
+    "BK_Transaction_ID",
+    "AuditTax",
+    "PK_Row_ID"
+  ],
+  "import": "EDS_dbo_Dim_Transaction_Properties"
+}

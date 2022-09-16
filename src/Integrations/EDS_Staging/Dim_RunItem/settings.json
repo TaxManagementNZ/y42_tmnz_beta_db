@@ -1,0 +1,20 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "irdConfNo",
+    "BK_runItemId",
+    "dateModified",
+    "currentStatusId",
+    "dateCompleted",
+    "bankAccountRef",
+    "runScheduleId",
+    "BK_runId",
+    "modifiedBy",
+    "dateRepayment",
+    "dateAuthorised",
+    "notes",
+    "PK_Dim_RunItem_ID"
+  ],
+  "import": "EDS_dbo_Dim_RunItem"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "PK_Dim_TransactionItem_Status_Definition_ID",
+    "BK_statusId",
+    "statusTag",
+    "label",
+    "dateCreated",
+    "dateModified",
+    "statusGroup",
+    "statusDescription"
+  ],
+  "import": "EDS_dbo_Dim_TransactionItem_Status_Definition"
+}

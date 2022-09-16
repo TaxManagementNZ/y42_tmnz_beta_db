@@ -1,0 +1,14 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "PK_Dim_Run_ID",
+    "BK_runId",
+    "runDate",
+    "notes",
+    "runIndex",
+    "dateCreated",
+    "dateModified",
+    "modifiedBy"
+  ],
+  "import": "EDS_dbo_Dim_Run"
+}

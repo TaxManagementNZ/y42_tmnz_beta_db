@@ -1,0 +1,15 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "dateOrder",
+    "balanceDate",
+    "terminalTaxDateYear",
+    "terminalTaxDateWithExtensionYear",
+    "terminalTaxDate",
+    "balanceDateYear",
+    "terminalTaxDateWithExtension"
+  ],
+  "import": "EDS_date_balance"
+}

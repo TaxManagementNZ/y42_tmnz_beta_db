@@ -1,0 +1,12 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "Task_Id",
+    "Task_Type",
+    "Environment",
+    "Lifecycle",
+    "Progress",
+    "LastUpdated"
+  ],
+  "import": "EDS_reference_TMNZbackuprestorestatus"
+}

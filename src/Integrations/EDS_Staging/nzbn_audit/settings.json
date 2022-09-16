@@ -1,0 +1,23 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "eTag",
+    "dateCreated",
+    "accountId",
+    "legalEntityName",
+    "directors",
+    "website",
+    "owners",
+    "lastVerified",
+    "registeredAddress",
+    "uuid",
+    "tradingAreas",
+    "confirmedUserId",
+    "registrationStatus",
+    "entityType",
+    "adminStatus",
+    "changeSet",
+    "nzbn"
+  ],
+  "import": "EDS_account_nzbn_audit"
+}

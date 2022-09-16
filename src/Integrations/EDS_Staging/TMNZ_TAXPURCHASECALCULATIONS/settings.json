@@ -1,0 +1,29 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "EFFECTIVEDATE",
+    "TAXFIRMID",
+    "SOURCE",
+    "IRDNUMBER",
+    "PROVISIONALTAXDATE",
+    "TYPE",
+    "ESTIMATEDSAVINGS",
+    "REQUESTAMOUNT",
+    "REASSESSMENTDATE",
+    "IRDINTERESTCOST",
+    "LATEPAYMENTPENALTY",
+    "TMNZINTERESTCOST",
+    "TMNZINTERESTCOSTEARLYBIRD",
+    "transactionItemId",
+    "TMNZID",
+    "REQUESTDATE",
+    "PURCHASEDATE",
+    "TAXPURCHASETMNZID",
+    "REQUESTID",
+    "TAXTYPEID",
+    "PERIODDATE",
+    "LATESTINTERESTRATE",
+    "INCOMEYEAR"
+  ],
+  "import": "EDS_dbo_TMNZ_TAXPURCHASECALCULATIONS"
+}

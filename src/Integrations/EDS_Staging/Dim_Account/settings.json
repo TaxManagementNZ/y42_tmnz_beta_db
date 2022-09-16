@@ -1,0 +1,30 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "balanceDateMonth",
+    "accountNotesModified",
+    "accountNotes",
+    "dateCreated",
+    "parentAccountTypeName",
+    "accountTypeTag",
+    "statusId",
+    "segment",
+    "terminalDate",
+    "accountManager",
+    "terminalDateModified",
+    "balanceDate",
+    "parentAccountType",
+    "BK_accountId",
+    "typeParentId",
+    "name",
+    "PK_Dim_Account_ID",
+    "feeLevelId",
+    "terminalDateMonth",
+    "typeId",
+    "accountManagerId",
+    "annualTaxPayment",
+    "accountType",
+    "irdNumber"
+  ],
+  "import": "EDS_dbo_Dim_Account"
+}

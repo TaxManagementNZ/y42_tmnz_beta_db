@@ -1,0 +1,20 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "BK_AMLContactPrimaryAccountId",
+    "transactionItempropertyValueId",
+    "valueText",
+    "valueDecimal",
+    "transactionItempropertyId",
+    "valueDate",
+    "AMLContactPrimaryAccount",
+    "BK_transactionItemId",
+    "Property",
+    "valueInteger",
+    "PK_Dim_AMLContactPrimaryAccount_ID"
+  ],
+  "import": "EDS_dbo_Dim_AMLContactPrimaryAccount"
+}

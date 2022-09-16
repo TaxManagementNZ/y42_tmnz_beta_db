@@ -1,0 +1,12 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateId",
+    "taxtypeId",
+    "periodDate",
+    "dateCreated",
+    "dateModified",
+    "dueDate"
+  ],
+  "import": "EDS_date_taxTypePeriod"
+}

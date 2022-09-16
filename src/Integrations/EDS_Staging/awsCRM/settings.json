@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "url",
+    "dateCreated",
+    "dateModified",
+    "statusId",
+    "id",
+    "httpMethod",
+    "entityType",
+    "jsonRequest",
+    "reason",
+    "entityId",
+    "jsonResponse",
+    "transactionType"
+  ],
+  "import": "EDS_api_awsCRM"
+}
