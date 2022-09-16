@@ -1,0 +1,10 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "BK_Transaction_ID",
+    "BK_TransactionItem_ID",
+    "Load_Date",
+    "Amount"
+  ],
+  "import": "EDS_Transform_Transactions_History"
+}
