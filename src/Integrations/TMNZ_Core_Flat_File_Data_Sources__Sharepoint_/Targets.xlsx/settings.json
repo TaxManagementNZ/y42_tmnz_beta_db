@@ -1,5 +1,5 @@
 {
-  "$schema": "https://s.y42.com/integrations/sharepoint/0.0.0/table",
+  "$schema": "https://s.y42.com/integrations/sharepoint/0.0.0/table.json",
   "columns": [
     "auto_detect"
   ],
@@ -7,5 +7,8 @@
   "_datos_write_settings": {
     "max_flatten_depth": 0,
     "decimals": false
-  }
+  },
+  "uri": "gs://y42_tmnzbeta_4f023c31211d43a7bdc1cf45afe1a15a/userUploads/v2/41/sharepoint/6190e58d-3675-429d-a3df-2d17f24531f3",
+  "identifier": "FY22",
+  "_signature": "k8OajBCGN/aHRhpkj35H91iIy55sM8pv3eWC8lFkXIXigOXgEd7QmXl3lmeqdppf3cV8edDWfQRzDs+DNJnpCg=="
 }
