@@ -1,0 +1,20 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "groupId",
+    "coreNewValue",
+    "dateCreated",
+    "accountId",
+    "dateModified",
+    "emailFlag",
+    "groupAction",
+    "userIdActioned",
+    "coreItem",
+    "userIdRequested",
+    "groupMemberId",
+    "auditItemId",
+    "coreOldValue",
+    "emailSent"
+  ],
+  "import": "tmnz_auditLog_auditItem"
+}

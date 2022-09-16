@@ -1,0 +1,13 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "blockFacilityId",
+    "label",
+    "tag",
+    "blnQueue",
+    "queueThreshold",
+    "dateCreated",
+    "dateModified"
+  ],
+  "import": "tmnz_transaction_blockFacility"
+}

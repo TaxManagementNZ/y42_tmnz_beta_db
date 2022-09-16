@@ -1,0 +1,17 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "user_id",
+    "password_client",
+    "redirect",
+    "id",
+    "provider",
+    "name",
+    "updated_at",
+    "revoked",
+    "secret",
+    "created_at",
+    "personal_access_client"
+  ],
+  "import": "tmnz_dbo_oauth_clients"
+}

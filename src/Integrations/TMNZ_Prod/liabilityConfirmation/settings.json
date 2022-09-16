@@ -1,0 +1,10 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "liabilityConfirmationId",
+    "userId",
+    "depositDate",
+    "dateConfirmed"
+  ],
+  "import": "tmnz_user_liabilityConfirmation"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "taxPaymentBasisId",
+    "taxPaymentBasisTag",
+    "taxPaymentBasis"
+  ],
+  "import": "tmnz_reference_taxPaymentBasis"
+}

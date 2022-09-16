@@ -1,0 +1,23 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "eTag",
+    "dateCreated",
+    "accountId",
+    "legalEntityName",
+    "directors",
+    "website",
+    "accountStatusId",
+    "owners",
+    "lastVerified",
+    "registeredAddress",
+    "uuid",
+    "tradingAreas",
+    "confirmedUserId",
+    "registrationStatus",
+    "accountStatusModified",
+    "changeSet",
+    "nzbn"
+  ],
+  "import": "tmnz_account_nzbn"
+}

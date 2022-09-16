@@ -1,0 +1,28 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "currentStatusId",
+    "productId",
+    "transactionDate",
+    "id",
+    "requestId",
+    "IRDTransactionId",
+    "hiddenBy",
+    "IRDTransactionItemId",
+    "taxYear",
+    "isHidden",
+    "source",
+    "amount",
+    "transType",
+    "transactionDescr",
+    "taxTypeId",
+    "linkId",
+    "hiddenDate",
+    "depositDate",
+    "clientListIdType",
+    "stage"
+  ],
+  "import": "tmnz_transaction_IRDTransactionItem"
+}

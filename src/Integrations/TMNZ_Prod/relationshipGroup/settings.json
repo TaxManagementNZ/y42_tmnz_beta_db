@@ -1,0 +1,13 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "groupId",
+    "groupTag",
+    "groupName",
+    "groupDescription",
+    "dateCreated",
+    "dateModified",
+    "modifiedBy"
+  ],
+  "import": "tmnz_security_relationshipGroup"
+}

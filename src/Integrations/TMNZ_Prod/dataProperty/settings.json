@@ -1,0 +1,17 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dataPropertyLabel",
+    "dataGroup",
+    "dateModified",
+    "valueLongText",
+    "dataPropertyId",
+    "dataPropertyTag",
+    "valueText",
+    "valueDate",
+    "dataType",
+    "valueInteger"
+  ],
+  "import": "tmnz_reference_dataProperty"
+}

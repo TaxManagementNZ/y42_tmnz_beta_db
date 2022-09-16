@@ -1,0 +1,17 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "valueLongText",
+    "valueText",
+    "valueDecimal",
+    "valueDate",
+    "modifiedBy",
+    "sitePropertyId",
+    "sitePropertyValueId",
+    "siteId",
+    "valueInteger"
+  ],
+  "import": "tmnz_security_sitePropertyValue"
+}

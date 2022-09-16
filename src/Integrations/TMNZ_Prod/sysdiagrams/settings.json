@@ -1,0 +1,11 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "name",
+    "principal_id",
+    "diagram_id",
+    "version",
+    "definition"
+  ],
+  "import": "tmnz_dbo_sysdiagrams"
+}

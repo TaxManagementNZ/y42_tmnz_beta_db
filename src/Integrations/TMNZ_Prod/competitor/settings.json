@@ -1,0 +1,8 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "competitorId",
+    "competitor"
+  ],
+  "import": "tmnz_reference_competitor"
+}

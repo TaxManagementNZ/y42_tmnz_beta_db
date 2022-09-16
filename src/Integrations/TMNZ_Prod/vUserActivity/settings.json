@@ -1,0 +1,13 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "userId",
+    "firstName",
+    "lastName",
+    "email",
+    "active",
+    "logged",
+    "usedTransaction"
+  ],
+  "import": "tmnz_user_vUserActivity"
+}

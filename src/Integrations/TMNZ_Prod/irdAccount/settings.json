@@ -1,0 +1,16 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "authCode",
+    "taxFirmId",
+    "irdTaxAgentId",
+    "refreshToken",
+    "accessToken",
+    "refreshTokenExpirationDate",
+    "irdClientListId",
+    "accessTokenExpirationDate",
+    "state",
+    "irdAccountId"
+  ],
+  "import": "tmnz_account_irdAccount"
+}

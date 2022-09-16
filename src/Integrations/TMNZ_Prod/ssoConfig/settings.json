@@ -1,0 +1,15 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "providerUrl",
+    "enforceSSO",
+    "tokenExpiry",
+    "scope",
+    "clientId",
+    "ssoConfigId",
+    "type",
+    "samlMetaDataUrl",
+    "clientSecret"
+  ],
+  "import": "tmnz_security_ssoConfig"
+}

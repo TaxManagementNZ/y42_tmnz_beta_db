@@ -1,0 +1,22 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "categoryDesc",
+    "isReversal",
+    "createFromDashboard",
+    "categoryCode",
+    "myIRDecode",
+    "isPayment",
+    "new",
+    "assessmentvsLoan",
+    "isReturn",
+    "isCredit",
+    "categoryDescription",
+    "transType",
+    "internalDecode",
+    "isWriteoff",
+    "isTax",
+    "description"
+  ],
+  "import": "tmnz_transaction_IRDTransactionMapping"
+}

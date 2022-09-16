@@ -1,0 +1,16 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "requestDate",
+    "loginId",
+    "url",
+    "responseData",
+    "sessionId",
+    "context",
+    "requestData",
+    "userInteractionId",
+    "requestMethod",
+    "responseDate"
+  ],
+  "import": "tmnz_logs_userInteraction"
+}

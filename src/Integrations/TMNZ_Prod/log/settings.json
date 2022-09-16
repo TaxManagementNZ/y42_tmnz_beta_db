@@ -1,0 +1,18 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "dateCreated",
+    "dateModified",
+    "emailLogId",
+    "bcc",
+    "userId",
+    "subject",
+    "content",
+    "typeId",
+    "type",
+    "from",
+    "to",
+    "cc"
+  ],
+  "import": "tmnz_email_log"
+}

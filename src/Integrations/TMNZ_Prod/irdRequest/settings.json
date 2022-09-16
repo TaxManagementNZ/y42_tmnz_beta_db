@@ -1,0 +1,20 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "requestDate",
+    "url",
+    "irdTaxpayerId",
+    "irdRequestId",
+    "responseTime",
+    "irdRequestTypeId",
+    "errorCode",
+    "requestCancelled",
+    "cancelled",
+    "taxpayersDownloading",
+    "previousIrdRequestId",
+    "irdAccountId",
+    "filingPeriodYear",
+    "responseDate"
+  ],
+  "import": "tmnz_account_irdRequest"
+}

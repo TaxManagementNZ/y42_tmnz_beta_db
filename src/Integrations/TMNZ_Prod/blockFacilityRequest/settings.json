@@ -1,0 +1,10 @@
+{
+  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
+  "columns": [
+    "requestId",
+    "blockFacilityId",
+    "dateCreated",
+    "dateModified"
+  ],
+  "import": "tmnz_transaction_blockFacilityRequest"
+}
