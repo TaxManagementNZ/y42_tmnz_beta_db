@@ -1,0 +1,11 @@
+{
+  "$schema": "https://s.y42.com/integrations/sharepoint/0.0.0/table",
+  "columns": [
+    "auto_detect"
+  ],
+  "import": "/drives/b!QzuBjPmDckStFYLg2b8CCD4LcdNch0tKu-q0am_hTGwUukobWDqjSKc-AFybiVDb/root:/General/Y42/01PLCXBNRULOVPCPHSOFGKJEG3CVTFTGNF",
+  "_datos_write_settings": {
+    "max_flatten_depth": 0,
+    "decimals": false
+  }
+}
