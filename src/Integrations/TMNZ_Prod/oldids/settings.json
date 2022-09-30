@@ -1,8 +1,0 @@
-{
-  "$schema": "https://s.y42.com/integrations/mssql/0.0.0/table",
-  "columns": [
-    "oldId",
-    "userId"
-  ],
-  "import": "tmnz_user_oldids"
-}
